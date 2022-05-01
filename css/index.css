@@ -35,7 +35,7 @@ body {
 }
 
 ::selection {
-    background: #b3d4fc;
+    background: #7eb0ed;
     text-shadow: none;
 }
 
@@ -45,11 +45,11 @@ body {
 
 hr {
     display: block;
-    height: 1px;
-    border: 0;
-    border-top: 1px solid #ccc;
+    height: 5px;
+    border: 5px;
+    border-top: 5px dotted #ccc;
     margin: 1em 0;
-    padding: 0;
+    padding: 5em;
 }
 
 /*
