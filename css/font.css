@@ -1,12 +1,12 @@
 @font-face {
-    font-family: "fairplex-wide";
+    font-family: "Scarlex";
     font-style: normal;
-    font-weight: 400;
+    font-weight: 300;
     src: url("../fonts/fairplex-wide-n4.woff") format("woff2");
 }
 @font-face {
-    font-family: "fairplex-wide";
+    font-family: "Scarlex";
     font-style: normal;
-    font-weight: 700;
+    font-weight: 900;
     src: url("../fonts/fairplex-wide-n7.woff") format("woff2");
 }
