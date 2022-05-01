@@ -85,7 +85,7 @@ textarea {
 .chromeframe {
     margin: 0.5em 0;
     background: #ccc;
-    color: #000;
+    color: #403f3f;
     padding: 0.5em 0;
 }
 
@@ -221,16 +221,16 @@ input[type=text]:valid, input[type=password]:valid {
 input[type=submit] {
     width: 200px;
     background-color: white;
-    color: #f50856;
+    color: #310111;
     padding: 14px 20px;
     margin: 8px auto 30px;
-    border: none;
-    border-radius: 40px;
+    border: 3px solid green;
+    border-radius: 50px;
     cursor: pointer;
     display: block;
 
-    font-family: "fairplex-wide";
-    font-size: 24px;
+    font-family: "Scarlex";
+    font-size: 30px;
     opacity: 1;
     font-weight: 700;
     text-transform: uppercase;
