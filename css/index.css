@@ -175,7 +175,7 @@ header img{
 
 @media screen and (max-width: 600px) {
   .form-wrap{
-    width: 90%;
+    width: 100%;
   }
 
   .left-form{
@@ -220,7 +220,7 @@ input[type=text]:valid, input[type=password]:valid {
 
 input[type=submit] {
     width: 200px;
-    background-color: white;
+    background-color: rgb(240,255,240);
     color: #310111;
     padding: 14px 20px;
     margin: 8px auto 30px;
