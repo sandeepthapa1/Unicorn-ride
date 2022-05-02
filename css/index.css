@@ -108,7 +108,7 @@ body{
   background-image: url(../images/background.png);
   background-size: cover;
   background-repeat: no-repeat;
-  background-position: center bottom;
+  background-position: center;
 
   font-family: "fairplex-wide";
   -webkit-font-smoothing: antialiased;
